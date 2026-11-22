@@ -2,7 +2,7 @@
 
 Modeling, structural analysis, and advanced control synthesis for an automotive active suspension system based on a **nonlinear 8-state Half-Car model**, developed in **MATLAB, Simulink, and Stateflow**.
 
-📄 **Full Technical Report:** [Download PDF](docs/Half_Car_Control_Report.pdf)
+📄 **Full Technical Report:** [Download PDF](doc/Half_Car_Control_Report.pdf)
 
 ---
 
