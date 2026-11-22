@@ -31,4 +31,4 @@ The goal of this project is to maximize ride comfort and vehicle stability (mini
 ## Repository Structure
 
 - `src/` — MATLAB scripts (LMI synthesis, system matrices, plotting) and Simulink/Stateflow models (`.slx`)
-- `docs/` — Complete technical report with mathematical derivations, LMI formulations, and simulation benchmarks
+- `doc/` — Complete technical report with mathematical derivations, LMI formulations, and simulation benchmarks
